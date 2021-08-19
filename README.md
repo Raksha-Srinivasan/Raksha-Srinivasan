@@ -21,6 +21,7 @@
 <a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=a758e465-5521-45b5-86c8-810513df5d91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=a758e465-5521-45b5-86c8-810513df5d91" height="30" width="40" /></a>
 <a href="https://medium.com/@raksha-srinivasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raksha-srinivasan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raksha_1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raksha_1999" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/raksha.srinivasan/viz/Dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tableau.svg" alt="raksha_1999" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
