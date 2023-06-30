@@ -1,33 +1,24 @@
-<h1 align="center">Hi 👋, I'm Raksha Srinivasan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raksha-srinivasan&label=Profile%20views&color=0e75b6&style=flat" alt="raksha-srinivasan" /> </p>
+# 💫 About Me:
+Hi, I'm Raksha Sriniavasan.<br><br> An Aspiring Software Engineer actively working on big data techniques. <br> I’m currently working on Big Data Technologies.<br> Ask me about Data Science.<br> How to reach me raksha.srinivasan0404@gmail.com .<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raksha-srinivasan" alt="raksha-srinivasan" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raksha-srinivasan-637393183/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@raksha-srinivasan) 
 
-- 📝 I regularly write articles on [https://medium.com/@Raksha-Srinivasan](https://medium.com/@Raksha-Srinivasan)
+# 💻 Tech Stack:
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Raksha-Srinivasan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Raksha-Srinivasan&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raksha-Srinivasan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬 Ask me about **Data Science**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Raksha-Srinivasan&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **raksha.srinivasan0404@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Raksha-Srinivasan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+[![](https://visitcount.itsvg.in/api?id=Raksha-Srinivasan&icon=6&color=5)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/raksha-srinivasan-637393183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raksha srinivasan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=a758e465-5521-45b5-86c8-810513df5d91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=a758e465-5521-45b5-86c8-810513df5d91" height="30" width="40" /></a>
-<a href="https://medium.com/@raksha-srinivasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raksha-srinivasan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/raksha_1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raksha_1999" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raksha-srinivasan&show_icons=true&locale=en&layout=compact" alt="raksha-srinivasan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raksha-srinivasan&show_icons=true&locale=en" alt="raksha-srinivasan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raksha-srinivasan&" alt="raksha-srinivasan" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
